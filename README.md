@@ -3,7 +3,7 @@ I'm a passionate developer who loves exploring the world of technology, blending
 
 ## Interests
  - Coding: Enthusiastic about programming and solving challenges through technology.
- - Learning: Currently diving deep into JavaScript and C++, while continuously expanding my skill set.
+ - Learning: Currently diving deep into JavaScript , while continuously expanding my skill set.
 
 
 ## Let's Connect
